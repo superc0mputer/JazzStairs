@@ -16,8 +16,14 @@ public class StepMusicPlayer : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Trigger");
+        if (audioPlayer.clip != null)
+        {
+            audioPlayer.Stop();
+            Debug.Log("Stopped Sound: " + audioPlayer.clip.name);
+        }
+
         audioPlayer.clip = sound;
+        Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
         audioPlayer.Play(0);
     }
     
