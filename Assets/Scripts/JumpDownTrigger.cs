@@ -17,12 +17,12 @@ public class JumpDownTrigger : MonoBehaviour
     void Start()
     {        
         audioPlayer = GameObject.FindWithTag("Player").GetComponent<AudioSource>();
-        //jumpDownTeleporter = GameObject.FindWithTag("Teleporter").GetComponent<SceneSwticher>();
+        jumpDownTeleporter = GameObject.FindWithTag("Teleporter").GetComponent<SceneSwticher>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        
+        /*
         if (audioPlayer.clip != music)
         {
             Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
@@ -31,7 +31,8 @@ public class JumpDownTrigger : MonoBehaviour
             audioPlayer.Play(0);
             StartCoroutine(WaitUntilMusicIsDone());
         }
-        /*
+        */
+        
         if (audioPlayer.clip != music)
         {
             Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
@@ -40,7 +41,7 @@ public class JumpDownTrigger : MonoBehaviour
             audioPlayer.Play(0);
             jumpDownTeleporter.musicPlayed = true;
         }
-        */
+        
     }
     
     
