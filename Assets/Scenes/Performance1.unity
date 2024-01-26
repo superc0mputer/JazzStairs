@@ -15,16 +15,16 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 0
-  m_FogColor: {r: 0.6037736, g: 0.031327877, b: 0.031327877, a: 1}
+  m_FogColor: {r: 0, g: 0, b: 0, a: 1}
   m_FogMode: 1
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0, g: 0, b: 0, a: 1}
+  m_AmbientSkyColor: {r: 0, g: 0.015905935, b: 0.14150941, a: 1}
   m_AmbientEquatorColor: {r: 1, g: 0, b: 0.44892502, a: 1}
   m_AmbientGroundColor: {r: 1, g: 0, b: 0.0094127655, a: 1}
   m_AmbientIntensity: 0.5
-  m_AmbientMode: 0
+  m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 1, g: 1, b: 1, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: f531e09e2ad2fb440b4eed7605863143, type: 2}
   m_HaloStrength: 0.5
@@ -798,7 +798,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 4d5828fd561aa4594abeb0d109b7d66d, type: 2}
+  sharedProfile: {fileID: 11400000, guid: fe44a1fc4fd34417a94e1b05a78f823c, type: 2}
 --- !u!4 &1121590671
 Transform:
   m_ObjectHideFlags: 0
@@ -1233,7 +1233,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1576006752
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2042,8 +2042,8 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.2430057, g: 0.18503025, b: 0.3962264, a: 1}
-  m_Intensity: 0.4
+  m_Color: {r: 0.027990391, g: 0.03339249, b: 0.16037738, a: 1}
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
