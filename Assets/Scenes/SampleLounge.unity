@@ -1842,16 +1842,28 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.4800005
+      value: -7.72
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.26000023
+      value: -0.14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13.829999
+      value: 6.53
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1881,13 +1893,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -45.487
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e00ebf582f5506b41a19ef4b9541cb04, type: 2}
     - target: {fileID: 919132149155446097, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
       propertyPath: m_Name
       value: Arch
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f6bfacf5956b14fe1841f7413dfac7c9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
