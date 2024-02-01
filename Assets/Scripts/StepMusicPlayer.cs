@@ -19,11 +19,11 @@ public class StepMusicPlayer : MonoBehaviour
         if (audioPlayer.clip != null)
         {
             audioPlayer.Stop();
-            Debug.Log("Stopped Sound: " + audioPlayer.clip.name);
+            //Debug.Log("Stopped Sound: " + audioPlayer.clip.name);
         }
 
         audioPlayer.clip = sound;
-        Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
+        //Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
         audioPlayer.Play(0);
     }
     

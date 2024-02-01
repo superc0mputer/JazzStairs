@@ -35,7 +35,7 @@ public class JumpDownTrigger : MonoBehaviour
         
         if (audioPlayer.clip != music)
         {
-            Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
+            //Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
             audioPlayer.Stop();
             audioPlayer.clip = music;
             audioPlayer.Play(0);
