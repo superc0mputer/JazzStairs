@@ -15,11 +15,13 @@ public class OnTriggerActivate : MonoBehaviour
         {
             toActivate.SetActive(true);
             toDeactivate.SetActive(false);
+            state = true;
         }
         else
         {
             toActivate.SetActive(false);
             toDeactivate.SetActive(true);
+            state = false;
         }
     }
 }

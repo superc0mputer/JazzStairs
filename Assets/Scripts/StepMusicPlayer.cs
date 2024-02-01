@@ -13,6 +13,7 @@ public class StepMusicPlayer : MonoBehaviour
     {
         audioPlayer = GameObject.FindWithTag("Player").GetComponent<AudioSource>();
     }
+    
 
     private void OnTriggerEnter(Collider other)
     {
@@ -25,6 +26,7 @@ public class StepMusicPlayer : MonoBehaviour
         audioPlayer.clip = sound;
         //Debug.Log("Changed Sound to: " + audioPlayer.clip.name);
         audioPlayer.Play(0);
+        audioPlayer.time = 0.5f;
     }
     
 }
