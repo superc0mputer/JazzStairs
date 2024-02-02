@@ -838,6 +838,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6beef4006cc9b4181911a9cb88299236, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1441,6 +1445,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: a4857603557d344088ed42135f033c5c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2063,6 +2071,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 72caba4e017294df99ca04d67ad6c5a8, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2373,6 +2385,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: b0544eee5f53048e2b8959181ea0f9d1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2497,6 +2513,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 9c126b467093f48869cf3a9ac62580f6, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2559,6 +2579,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 844be6268aa184778a5d24d7f6dafcf4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20709,6 +20733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 3b0518d03d3b94dce9486b94f9039d6e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20833,6 +20861,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: dcae0173736b94567915099ef6364337, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21205,6 +21237,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1f143421c442b4bef80477770a9cb13c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21718,6 +21754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: f69a2447acf954ca0accbf6cb53db94c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22443,6 +22483,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0152cacb11f2c4689b22594dd6fee707, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22711,6 +22755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: ebef46264901c401fb02815eebe38729, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23631,6 +23679,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: e2ee4e939ca534f90b1713bfcd23e155, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24009,6 +24061,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: a0790e5519fbd4d89adaa54ca31f9ece, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24421,6 +24477,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4c0c76259e11a4f17b0bc2487aa495d4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24731,6 +24791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4617960ade4244c52a7791eb403779a1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24904,6 +24968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6eddaeea3a73b423386c75c6c7337e30, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25028,6 +25096,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: e7b77e05dc4db4343a68e8c1ec7d80a6, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25499,6 +25571,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 59a6c672373d84120b1e4f64484d7aed, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25767,6 +25843,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 3e94d0a282f2b486c8ef332af5ee163a, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25953,6 +26033,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: bd8b2d30f259b42f0a5827ab53aab224, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26015,6 +26099,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 2c1703eacfc5a4823bb42b1ce299562b, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26077,6 +26165,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 5e9603358c0454c058d78e4597286e41, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26139,6 +26231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 01027c347a9ee465986a6760348dd481, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26404,6 +26500,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 954ad23f2278341d9a33f2813e711453, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26633,6 +26733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4025cf619d7da4deaa776c3f097ae315, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26859,6 +26963,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: da521781dfcca4cfa8057762f7e6148b, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27045,6 +27153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1fc24e5a077fd4cd5884296b87df9942, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27519,6 +27631,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 3d449441c82bd433e9dbf549ca0351fe, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27705,6 +27821,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: b03c2574829db44578ca2305b25d1469, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27767,6 +27887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: f93ee29cd1d044bbaae59ca7772ede79, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28135,6 +28259,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: fae3d0fa4032040f3a474c55c85d240a, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28321,6 +28449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 2009800fa6aca499db41a14cecec81a1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28835,6 +28967,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 128899d1e66084f6db42f198127a88bb, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29106,6 +29242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: ca4941370a29348eb9d2d49392308e91, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29343,6 +29483,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 93813d659ba4a43c4b1168cdcc04ec28, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29405,6 +29549,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: bf3bf04d25e2c4aa3beab779791fdb81, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29915,6 +30063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 2884586feee344033b302a8443509890, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29977,6 +30129,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: e996bae56f47e4ff6a8ca04cf980a589, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30101,6 +30257,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 51cb3546aeccb418585f43cda3c841f1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30409,6 +30569,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 14ae08d8f5f354bbb8c966008333232e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30553,6 +30717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: e81b6fe58ee244f08ae48516e9290a93, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30925,6 +31093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 84376ba86fecf4ad8955be614ae23107, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30987,6 +31159,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 58ad23b6e8d6c4067af6e50a5ce7e31f, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31317,6 +31493,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 42ded07296dc747c19fa4de2eea69d14, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31441,6 +31621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: e6f6523d7b8d446948719a209f5c6e46, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32039,6 +32223,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicStep (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 8128243859063200102, guid: 34caaedc35215474aa7ee3ed56452a04, type: 3}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 8300000, guid: 71215d2050cd64dc6af5d275db39b2c6, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
