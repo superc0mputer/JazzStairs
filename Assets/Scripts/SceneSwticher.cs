@@ -7,10 +7,12 @@ public class SceneSwticher : MonoBehaviour
 {
     public bool musicPlayed = false;
     [SerializeField] private string scene;
+    [SerializeField] private int waitUntilTeleport = 0;
+
     
     private void OnTriggerEnter(Collider other)
     {
-        SwtichSceneAfterMusic();
+        SwtichSceneAfterMusicAsync();
     }
     
     
@@ -20,6 +22,20 @@ public class SceneSwticher : MonoBehaviour
         {
             SceneManager.LoadScene(scene);
         }
+    }
+    public void SwtichSceneAfterMusicAsync()
+    {
+        if (musicPlayed)
+        {
+            StartCoroutine(WaitSeconds());
+        }
+    }
+    
+    IEnumerator WaitSeconds()
+    {
+        yield return new WaitForSeconds(waitUntilTeleport);
+        SceneManager.LoadSceneAsync(scene);
+
     }
 
 }

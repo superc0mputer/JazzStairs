@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 6078761868732408571}
   - component: {fileID: 7202313687996247390}
   - component: {fileID: 4906449049229711764}
-  - component: {fileID: 2369415000755449632}
+  - component: {fileID: 4560452078433632964}
   m_Layer: 0
   m_Name: railing
   m_TagString: Untagged
@@ -342,8 +342,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2369415000755449632
-MeshCollider:
+--- !u!65 &4560452078433632964
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -360,7 +360,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -3758573805739257388, guid: 42b2e4655eba140dab7765041bf6a135, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 0.010777578, y: 0.02292664, z: 0.00028917834}
+  m_Center: {x: 9.313226e-10, y: -0.0000000018626451, z: -9.458745e-10}
