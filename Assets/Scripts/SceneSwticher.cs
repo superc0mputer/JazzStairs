@@ -33,8 +33,14 @@ public class SceneSwticher : MonoBehaviour
     
     IEnumerator WaitSeconds()
     {
-        yield return new WaitForSeconds(waitUntilTeleport);
-        SceneManager.LoadSceneAsync(scene);
+        //yield return new WaitForSeconds(waitUntilTeleport);
+        
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(scene);
+
+        while (!asyncLoad.isDone)
+        {
+            yield return null;
+        }
 
     }
 

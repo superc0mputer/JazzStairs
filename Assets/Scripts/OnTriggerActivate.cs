@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class OnTriggerActivate : MonoBehaviour
 {
-    [SerializeField] private GameObject toActivate;
-    [SerializeField] private GameObject toDeactivate;
+    [SerializeField] private List<GameObject> toActivate;
+    [SerializeField] private List<GameObject> toDeactivate;
 
     private bool state = false;
     
@@ -13,14 +13,14 @@ public class OnTriggerActivate : MonoBehaviour
     {
         if (!state)
         {
-            toActivate.SetActive(true);
-            toDeactivate.SetActive(false);
+            toActivate.ForEach(o => o.SetActive(true));
+            toDeactivate.ForEach(o => o.SetActive(false));
             state = true;
         }
         else
         {
-            toActivate.SetActive(false);
-            toDeactivate.SetActive(true);
+            toActivate.ForEach(o => o.SetActive(false));
+            toDeactivate.ForEach(o => o.SetActive(true));
             state = false;
         }
     }
