@@ -1721,7 +1721,8 @@ PrefabInstance:
       value: Diamond (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
@@ -3902,7 +3903,8 @@ PrefabInstance:
       value: Diamond (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
@@ -13371,7 +13373,8 @@ PrefabInstance:
       value: Diamond (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
@@ -14723,7 +14726,8 @@ PrefabInstance:
       value: Diamond (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
@@ -16325,7 +16329,8 @@ PrefabInstance:
       value: Diamond (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
@@ -17028,7 +17033,8 @@ PrefabInstance:
       value: Diamond
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db0fa17538c1a49738f9a424dbcffc82, type: 3}
